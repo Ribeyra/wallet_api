@@ -20,4 +20,4 @@ docker compose exec web pytest /app/tests -v
 ```
 
 ## Configuration
-Copy `.env.example` to `.env` and adjust:
+Copy `.env.example` to `.env` and adjust
